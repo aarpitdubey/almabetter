@@ -201,8 +201,7 @@ OnePlus10 = "OnePlusTen Mobile phone" # It's a valid syntax
 
 _1plus10 = "OnePlusTen Mobile phone" # It will alsao not throws any error because it start with "_" underscore
 
-list = 10 # It will also not throws any error but "list" is a reserved keyword in python so, using a python pre-defined keyword as variable name is not a good practise
-
+list = 10 # It will also not throws any error but "list" is a reserved keyword in python so, using a python pre-defined keyword as variable name is not a good practice.
 ```
 
 * Variable names cannot begin with a number
