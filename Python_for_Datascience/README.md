@@ -116,6 +116,8 @@ Copy the above code snippet and paste in the IDE, choose the mode as Python and 
 5E6 # It will gives 5000000.0
 
 1E2 # It will gives 100.0
+
+# Avagardo constant is 6E23
 ```
 
 ## What is a Variable?
@@ -127,3 +129,56 @@ Copy the above code snippet and paste in the IDE, choose the mode as Python and 
 * A Python variable is a reserved memory location to store values. In other words, a variable in python program gives gives data to the computer for processing
 
 * The type() of data contained in the Python variable can be changes at user's will.
+
+```Python
+
+x = 10
+y = 20
+
+print(f"x = {x} and, y = {y}") # x = 10 and, y = 20
+
+# Avagardo constant
+avagardo_constant = 6E23
+
+print(f"Avagardo Constant = {avagardo_constant}") # Avagado Constant = 6e+23, means python interpreter won't write all the 0's. the number is 600000000000000000000000.0 
+
+# Addition
+z = x + y
+
+print(f"z = {z}") # z = 30
+
+# Printing the memory address the variable z occupies
+print(hex(id(z))) # It will gives:  0x190a5c645f0 or different memory location
+
+# Substraction
+
+z = y - x
+print(f"z = {z}") # z = 10
+type(z) # float, type() gives the data type of variable z
+
+# Multiplication
+z = x * y
+print(f"z = {z}") # z = 200.0
+type(z) # float, type() gives the data type of variable z
+
+# Division
+z = y / x
+print(f"z = {z}") # z = 2.0
+type(z) # float
+
+# Floor Division
+z = y // x
+print(f"z = {z}") # z = 2
+type(z) # Int
+
+# Modulus
+
+z = y % x
+print(f"z = {z}") # z = 2
+
+# Using Power and exponent
+z = x ** y
+print(f"z = {z}") # z = 100000000000000000000
+
+
+```
