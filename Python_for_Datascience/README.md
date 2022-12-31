@@ -82,3 +82,38 @@ Copy the above code snippet and paste in the IDE, choose the mode as Python and 
 3. <b> Boolean </b> - Boolean variables have two modes either True or False. A definite judge of statements!
 
 4. <b>Datetime</b> - These variables are used to store date and time values such as 2020-08-01 12:23:54
+
+
+```Python
+
+# Addition
+1 + 1 # It will gives 2
+
+# Substraction
+10 - 8 # It will gives 2
+
+# Multiplication
+2 * 10 # It will gives 20
+
+# Division
+10 / 2 # It will return float 5.0 as a result
+
+# Floor Division
+10 // 2 # It will return integer 5 as a result
+
+# Exponentiation
+10**5 # It will gives 100000
+
+# Modulus
+2%10 # It will gives 2
+
+# Order of Operation followed in python
+8 + 10 * 10 + 2 # It will gives 110
+
+8 + 10 * (10 + 2) # It will gives 128 
+
+# Scientific Notation for representing large numbers
+5E6 # It will gives 5000000.0
+
+1E2 # It will gives 100.0
+```
