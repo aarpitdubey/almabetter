@@ -260,3 +260,73 @@ list = 10 # It will also not throws any error but "list" is a reserved keyword i
 <td> (a &lt;= b) is true. </td>
 </tr>
 </table>
+
+* Python comes with Booleans (with predefined True and False displays that are basically jusr the integers 1 and 0), It also had a placeholder object called None.
+
+```python
+
+boolean_variable = False
+type(boolean_variable) # bool
+
+print(booleans_variable) # False
+```
+### Equal
+
+```Python
+
+2 == 3 # False
+
+2 == 2 # True
+
+```
+> Note : "==" is a comparison operator, while "=" is an assignment operator.
+
+<br>
+
+### Not Equal
+
+```python
+
+2 != 0 # True
+
+2 != 2 # False
+
+```
+### Greater than
+
+```PYTHON 
+a = 3
+b = 2
+
+a > b # True
+
+a == 3 # True
+
+b > 4 # False
+```
+
+### Less than
+
+```PYTHON
+10 < 45 # True
+
+4 < 2 # False
+
+```
+
+### Greater than or equal to
+
+```PYTHON
+3 >= 2 # True
+
+4 >= 4 # True
+
+```
+### Less than or equal to
+
+```PYTHON 
+3 <= 0 # False
+
+1 <= 2 # True
+```
+ 
