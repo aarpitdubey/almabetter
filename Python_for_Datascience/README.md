@@ -70,3 +70,15 @@ print("I will be a Data Scientist.")
 print("Arpit Dubey")
 ```
 Copy the above code snippet and paste in the IDE, choose the mode as Python and click on Run Code.
+
+<br><br>
+
+## Different data types we will encounter in Python
+
+1. <b>Numeric</b> - Numeric variables take values which are numbers like 9, 3.14, 0, Inf
+
+2. <b> String </b> - String variables are used to store textual information
+
+3. <b> Boolean </b> - Boolean variables have two modes either True or False. A definite judge of statements!
+
+4. <b>Datetime</b> - These variables are used to store date and time values such as 2020-08-01 12:23:54
