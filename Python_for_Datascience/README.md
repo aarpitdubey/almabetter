@@ -214,3 +214,49 @@ list = 10 # It will also not throws any error but "list" is a reserved keyword i
 * It is consider a best practice that names are in lowercase with _ underscore.
 
 * Avoid using python built-in keywords like ```list, str, def ... etc.```
+
+## Boolean Variables
+
+* A Boolean variable only takes two values either True or False. It is used for comparisons.
+
+## Comparison Operators
+
+* These operators will allow us to compare variables and output a Boolean value (True or False).
+
+* Let's see an example where ``` a = 3 and b = 4 ```.
+
+<table class="table table-bordered">
+<tr>
+<th style="width:10%">Operator</th><th style="width:45%">Description</th><th>Example</th>
+</tr>
+<tr>
+<td>==</td>
+<td>If the values of two operands are equal, then the condition becomes true.</td>
+<td> (a == b) is not true.</td>
+</tr>
+<tr>
+<td>!=</td>
+<td>If values of two operands are not equal, then condition becomes true.</td>
+<td>(a != b) is true</td>
+</tr>
+<tr>
+<td>&gt;</td>
+<td>If the value of left operand is greater than the value of right operand, then condition becomes true.</td>
+<td> (a &gt; b) is not true.</td>
+</tr>
+<tr>
+<td>&lt;</td>
+<td>If the value of left operand is less than the value of right operand, then condition becomes true.</td>
+<td> (a &lt; b) is true.</td>
+</tr>
+<tr>
+<td>&gt;=</td>
+<td>If the value of left operand is greater than or equal to the value of right operand, then condition becomes true.</td>
+<td> (a &gt;= b) is not true. </td>
+</tr>
+<tr>
+<td>&lt;=</td>
+<td>If the value of left operand is less than or equal to the value of right operand, then condition becomes true.</td>
+<td> (a &lt;= b) is true. </td>
+</tr>
+</table>
