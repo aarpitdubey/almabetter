@@ -117,3 +117,13 @@ Copy the above code snippet and paste in the IDE, choose the mode as Python and 
 
 1E2 # It will gives 100.0
 ```
+
+## What is a Variable?
+
+* Variable are the entities which help us to store information and retrieve it later.
+
+* It stores information of nature like numeric, textual, bool etc.,
+
+* A Python variable is a reserved memory location to store values. In other words, a variable in python program gives gives data to the computer for processing
+
+* The type() of data contained in the Python variable can be changes at user's will.
