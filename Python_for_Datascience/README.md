@@ -180,5 +180,38 @@ print(f"z = {z}") # z = 2
 z = x ** y
 print(f"z = {z}") # z = 100000000000000000000
 
+```
+
+## Rules for naming a variable in Python
+
+* Variable name must start with a letter (or) an underscore like " _", "product", "_product", (or) "product_"
+
+* The reminder of your variable name may consist of letters, numbers and underscores
+
+* spacy1, pyThon, machine_learning are some valid variable names
+
+* Names are case sensitive.
+
+* case_sensitive, CASE_SENSITIVE, and Case_Sensitive are each a different variable.
+
+```PYTHON
+1plus10 = "OnePlusTen Mobile phone" # It will throws SyntaxError : Invalid syntax because it starts with a numeric value
+
+OnePlus10 = "OnePlusTen Mobile phone" # It's a valid syntax
+
+_1plus10 = "OnePlusTen Mobile phone" # It will alsao not throws any error because it start with "_" underscore
+
+list = 10 # It will also not throws any error but "list" is a reserved keyword in python so, using a python pre-defined keyword as variable name is not a good practise
 
 ```
+
+* Variable names cannot begin with a number
+
+* Name can not contain spaces, use _ instead
+
+* Names can not contain any of these symbols: 
+```:'",<>/?|\!@#%^&*()+=`~:```
+
+* It is consider a best practice that names are in lowercase with _ underscore.
+
+* Avoid using python built-in keywords like ```list, str, def ... etc.```
