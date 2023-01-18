@@ -47,41 +47,70 @@
 ### KEYBOARD SHORTCUTs :
 
 1. To show shortcuts on ms-excel hit ```ALT``` and you can see short over the excel file.
-
+<br>
 ![without use of ALT key](images/Before_Pressing_ALT_key.PNG)
 After Hitting ```ALT``` key :
 
 ![Use of ALT key](./images/ALT_Key_to_shortcut.png)
 
 2. **Copy & Paste** : Use the combination of key ```CTRL + C ``` for coping and for pasting ```CTRL + V``` and their are different ways to paste:
-
+<br>
         (i) For pasting only the value of the cell not it's format we have options.
 
 ![pasting options](./images/pastingways.gif)
 
+<br>
+
+## GOTO Statement and Shortcut : 
+
+- The **GOTO statement is a control statement** in Excel that allows you to **jump to a specific cell (or) range of cells** within a worksheet.
+
+- For using **GOTO statement**, the shortcut keywords are ``` CTRL + J ``` and then enter the specific cell rows and column location like A1, A2, A3, .. or G8 etc., 
+
+![](./images/GOTO_Statment.gif)
+
 ## 4. Inserting a Row/Column :
+<br>
 
 - To insert a row in spreadsheet, the shortcut keywords are ```CTRL + ALT + = + R``` 
+
 - for inserting a column in spreadsheet, the shortcut keywords are ```CTRL + ALT + = + C ```
+
+<br>
 
 ![](./images/inserting_a_row_%26_column.gif)
 
 ## 5. Deleting a Row/Column :
+<br>
 
-- To delete a row in spreadsheet, the shortcut keywords are ```CTRL + ALT + - + R``` 
+- To delete a row in spreadsheet, the shortcut keywords are ```CTRL + ALT + - + R```
+
 - for deleting a column in spreadsheet, the shortcut keywords are ```CTRL + ALT + - + C ```
+
+<br>
 
 ![](./images/deleting_a_row_%26_column.gif)
 
 ## 6. Decimal Number to Percentage Convertion :
+<br>
 
 - To **convert decimal number to percentage value excel provide shortcut keywords** these are 
 ```CTRL + SHIFT + 5``` as show in this gif file.
 
+<br>
+
 ![](./images/deci_to_perc.gif)
 
+
+## 7. To move from bottom-most to top-most cell, or selecting whole worksheet : 
+<br>
+
+- To move from bottom-most to top-most cell, the shortcut keywords are ```CTRL + UpArrowKey(```&#x2191;```)``` 
+
+![](./images/bottom_most_to_topmost_and_selecting_whole_worksheet.gif)
 <br>
 
 # Formating
+
 
  
