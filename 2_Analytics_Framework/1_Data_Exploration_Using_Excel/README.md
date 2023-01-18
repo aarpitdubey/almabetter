@@ -170,5 +170,13 @@ After Hitting ```ALT``` key :
 
 # Formating
 
+## 1. **Freeze :** 
+<br>
 
+- Go to the **"View tab"**, where you can Freeze Panes **to lock specific rows and columns** in any location of the Worksheet.
+
+- Basically, you can freeze or lock a specific area within the worksheet. This is helpful to get the specific row and column results.
  
+ <br>
+
+ ![](./images/freeze.gif)
