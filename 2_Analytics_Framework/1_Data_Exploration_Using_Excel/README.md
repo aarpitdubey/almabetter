@@ -18,7 +18,7 @@
 ### Present day use of Excel :
 - Now, it is used by most of the Data Analysts, Data scientists, and others who relate to Data Analytics.
 
-- Now, we can use Excel for various purposes like **some calculaions, Visualization and any analysis insights using charts and other graphs,** even it replaces powerpoint presentation for many developers.
+- Now, we can use Excel fo                                                                       r various purposes like **some calculaions, Visualization and any analysis insights using charts and other graphs,** even it replaces powerpoint presentation for many developers.
 <hr>
 
 ## 1.  Workbook: 
