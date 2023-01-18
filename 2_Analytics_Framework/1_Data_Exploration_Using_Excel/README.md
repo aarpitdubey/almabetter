@@ -1,5 +1,4 @@
-# DATA EXPLORATION using EXCEL
-# Excel Introduction
+# DATA EXPLORATION using EXCEL - Excel Introduction
 
 ## Excel : 
 - It is one of the spreadsheet software.
@@ -73,3 +72,16 @@ After Hitting ```ALT``` key :
 - for deleting a column in spreadsheet, the shortcut keywords are ```CTRL + ALT + - + C ```
 
 ![](./images/deleting_a_row_%26_column.gif)
+
+## 6. Decimal Number to Percentage Convertion :
+
+- To **convert decimal number to percentage value excel provide shortcut keywords** these are 
+```CTRL + SHIFT + 5``` as show in this gif file.
+
+![](./images/deci_to_perc.gif)
+
+<br>
+
+# Formating
+
+ 
