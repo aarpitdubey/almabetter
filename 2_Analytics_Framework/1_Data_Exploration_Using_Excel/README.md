@@ -43,7 +43,7 @@
 ## 4. GOTO statement :
 - The **GOTO statement is a control statement** in Excel that allows you to **jump to a specific cell (or) range of cells** within a worksheet.
 
-> Note : GOTO statement is "Legacy" statement in Excel and it is generally not recommended for use in modern excel sheet instead, of using GOTO statement.
+> Note : GOTO statement is "Legacy" statement in Excel and it is generally not recommended for use in modern excel sheet instead, of using GOTO statement, you can use if-else.
 
 ### KEYBOARD SHORTCUTs :
 
@@ -66,3 +66,10 @@ After Hitting ```ALT``` key :
 - for inserting a column in spreadsheet, the shortcut keywords are ```CTRL + ALT + = + C ```
 
 ![](./images/inserting_a_row_%26_column.gif)
+
+## 5. Deleting a Row/Column :
+
+- To delete a row in spreadsheet, the shortcut keywords are ```CTRL + ALT + - + R``` 
+- for deleting a column in spreadsheet, the shortcut keywords are ```CTRL + ALT + - + C ```
+
+![](./images/deleting_a_row_%26_column.gif)
