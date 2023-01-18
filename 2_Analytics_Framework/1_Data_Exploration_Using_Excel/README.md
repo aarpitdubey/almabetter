@@ -28,7 +28,7 @@
 
 - They are used and also a **popular way to store, organized and, analyze data, and they are widely used in many different industries**. 
 
-![Workbook image](./images/workbook.png)
+![Workbook image](images/workbook.png)
 
 ## 2. Worksheet:
 - An Excel worksheet ( or a sheet ) is a **single page in an workbook**.
@@ -50,13 +50,13 @@
 
 1. To show shortcuts on ms-excel hit ```ALT``` and you can see short over the excel file.
 
-![without use of ALT key](./images/Before_Pressing_ALT_key.PNG)
+![without use of ALT key](images/Before_Pressing_ALT_key.PNG)
 After Hitting ```ALT``` key :
 
-![Use of ALT key](./images/ALT_Key_to_shortcut.png)
+![Use of ALT key](images/ALT_Key_to_shortcut.png)
 
 2. **Copy & Paste** : Use the combination of key ```CTRL + C ``` for coping and for pasting ```CTRL + V``` and their are different ways to paste:
 
         (i) For pasting only the value of the cell not it's format we have options.
 
-![pasting options](./images/pastingways.gif)
+![pasting options](images/pastingways.gif)
