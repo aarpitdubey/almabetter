@@ -1,7 +1,6 @@
 # DATA EXPLORATION using EXCEL
 # Excel Introduction
 
-
 ## Excel : 
 - It is one of the spreadsheet software.
 
@@ -60,3 +59,10 @@ After Hitting ```ALT``` key :
         (i) For pasting only the value of the cell not it's format we have options.
 
 ![pasting options](./images/pastingways.gif)
+
+## 4. Inserting a Row/Column :
+
+- To insert a row in spreadsheet, the shortcut keywords are ```CTRL + ALT + = + R``` 
+- for inserting a column in spreadsheet, the shortcut keywords are ```CTRL + ALT + = + C ```
+
+![](./images/inserting_a_row_%26_column.gif)
