@@ -71,15 +71,17 @@ How to choose a DB?
 
 1) What type of data will you be analyzing?
 
-- Ans : We have to **encounter what's the nature of Data to be stored.** firstly, **if DB has rows and columns (strutured Data) then we can go with relational Data base**, and **if DB has data like images, video, etc., (un-structured Data) then we move to NoSQL DB**.
+- Ans : We have to **encounter what's the nature of Data to be stored.** firstly, **if DB has rows and columns (strutured Data) then we can go with relational Data base**, and **if DB has data more flexible like images, video, etc., (un-structured Data) then we move to NoSQL DB**.
 
 2) How much data are you dealing with?
 
-- Ans : Suppose In have millions or billions of data (rows and columns), rule of thumb, is the bigger the dataset More likely, we should go with NoSQL database to store it. Because NoSQL database has flexibility, to change the data type, and store it in the database.
+- Ans : Suppose I have millions or billions of data (rows and columns), rule of thumb, is the **bigger the dataset More likely, we should go with NoSQL database** to store it. Because **NoSQL database can store a limited sets of data and, has flexibility, to change the data type** and, store it in the database. whereas in relational databases **we have to do multiple and intensive read and write operations on the database, this might increase the traffic between the Database and Applicaion and slows-down the entire process**.
 
 3) What kind of resources can you devote to the
 setup and maintenance of your database?
 
-1) Do you need real-time data?
+- Ans : Kind of resourses (talking about man-power) so, suppose there a team of Data Scientists (20 - 40 people) are working together and some are from various domains like some are statistians, some are chemists, some are from engineering background but all are working and devouting their time to solve the real-life problems.  
+
+4) Do you need real-time data?
 
 <br>
