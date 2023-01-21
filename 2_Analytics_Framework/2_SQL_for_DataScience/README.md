@@ -80,7 +80,9 @@ How to choose a DB?
 3) What kind of resources can you devote to the
 setup and maintenance of your database?
 
-- Ans : Kind of resourses (talking about man-power) so, suppose there a team of Data Scientists (20 - 40 people) are working together and some are from various domains like some are statistians, some are chemists, some are from engineering background but all are working and devouting their time to solve the real-life problems.  
+- Ans : Kind of resourses (talking about man-power) so, suppose there a team of Data Scientists (20 - 40 people) are working together and some are from various domains like some are statistians, some are chemists, some are from engineering background but all are working and devouting their time to solve the real-life problems. 
+
+- It easy for everyone to ;earn SQl language and NoSQL database reuires knowledge of other languages so it is not reliable to learn about other languages for the team.
 
 4) Do you need real-time data?
 
