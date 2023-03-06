@@ -16,13 +16,14 @@
 
   - 2. Linear Regression consists of predictor variable and dependent variable related linearly to each other. These can be expressed in terms of a straight line and we can find out the relationship between independent variable and dependent variable.
 
-##  y = mx + c (it's a line equation)
+  <center><span style="font-size:32px;"> y = mx + c </span></center> 
+<center><span style="font-size:16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( it's a line equation )</span></center></br>
 
 where y is the line, m is the slope, c is the y-intercept.
 
 but in Linear Regression,
 
- Y = θ<sub>0</sub> + θ<sub>1</sub>X +  ε 
+ <center><span style="font-size:32px;">Y = θ<sub>0</sub> + θ<sub>1</sub>X +  ε </span></center> </br>
 
 where,
 
@@ -30,4 +31,6 @@ where,
 
 θ<sub>1</sub> : is the slope (or) m
 
-ε : is the error 
+ε : is the random error (or) noise.
+
+- Linear Regression also knowns as <span style="font-family: Fantasy;">ordinary least squares (OLS)</span> and <span style="font-family: Fantasy;">linear least squares.</span>
